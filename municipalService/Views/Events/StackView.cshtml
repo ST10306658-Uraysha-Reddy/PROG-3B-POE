@@ -1,0 +1,21 @@
+﻿@{
+}
+@model List<municipalService.Models.EventModel>
+<body>
+    <div class="container-fluid" style="padding-top: 100px;">
+<h3 class="text-center mt-4">NEW Events</h3>
+<ul class="list-group">
+    @foreach (var ev in Model)
+    {
+        <li class="list-group-item">
+            <strong>@ev.Title</strong> — @ev.Date.ToShortDateString() (@ev.Category)
+        </li>
+    }
+    
+</ul>
+        <div class="d-flex justify-content-center gap-3 mt-4">
+        <a href="@Url.Action("EventsPage", "Events")" class="btn btn-pink">Back to Announcements</a>
+        <a href="@Url.Action("Index", "Home")" class="btn btn-blue">Back to Main Menu</a>
+        </div>
+</div>
+</body>

@@ -1,0 +1,110 @@
+﻿@model List<municipalService.Models.EventModel>
+@{
+    ViewBag.Title = "Local Events & Announcements";
+}
+
+<style>
+    .btn-pink {
+        background-color: #f47cae;
+        color: white;
+        font-weight: bold;
+        border-radius: 8px;
+    }
+
+        .btn-pink:hover {
+            background-color: #efc7f9;
+            color: #0a2463;
+        }
+
+    .btn-blue {
+        background-color: #aadbff;
+        color: #0a2463;
+        font-weight: bold;
+        border-radius: 8px;
+    }
+
+        .btn-blue:hover {
+            background-color: #efc7f9;
+            color: #0a2463;
+        }
+
+</style>
+<div class="container-fluid" style="padding-top: 100px;">
+    <h2 class="text-center mb-4" style="color:#0a2463;">Local Events & Announcements</h2>
+
+    <form method="post" class="row g-3 mb-4">
+        <div class="col-md-4">
+            <label class="form-label">Category</label>
+            <select name="category" class="form-select">
+                <option value="">All</option>
+                @foreach (var cat in ViewBag.Categories as List<string>)
+                {
+                    <option value="@cat">@cat</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Date</label>
+            <select name="date" class="form-select">
+                <option value="">All</option>
+                @foreach (var d in ViewBag.Dates as List<DateTime>)
+                {
+                    <option value="@d.ToString("yyyy-MM-dd")">@d.ToString("dd MMM yyyy")</option>
+                }
+            </select>
+        </div>
+        <div class="col-md-4 d-flex align-items-end">
+            <button type="submit" class="btn btn-pink">Search</button>
+        </div>
+    </form>
+
+    @if (Model.Any())
+    {
+        <table class="table table-bordered shadow">
+            <thead style="background-color:#0a2463; color:#cef4ff;">
+                <tr>
+                    <th>Date</th>
+                    <th>Title</th>
+                    <th>Category</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var ev in Model)
+                {
+                    <tr style="background-color:#cef4ff;">
+                        <td>@ev.Date.ToShortDateString()</td>
+                        <td class="fw-bold text-primary">@ev.Title</td>
+                        <td class="text-pink">@ev.Category</td>
+                        <td>@ev.Description</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center" style="color:#0a2463;">
+            No events found.
+        </div>
+    }
+    @if (ViewBag.Recommendations is List<EventModel> recs && recs.Any())
+    {
+        <h4 class="mt-5 text-center" style="color:#0a2463;">Recommended Events Based on Your Searches</h4>
+        <ul class="list-group mb-5">
+            @foreach (var ev in recs)
+            {
+                <li class="list-group-item">
+                    <strong>@ev.Title</strong> — @ev.Date.ToString("dd MMM yyyy") (@ev.Category)
+                    <br />
+                    <span class="text-muted">@ev.Description</span>
+                </li>
+            }
+        </ul>
+    }
+    <div class="d-flex justify-content-center gap-3 mt-4">
+        <a href="@Url.Action("QueueView", "Events")" class="btn btn-pink">View Queue</a>
+        <a href="@Url.Action("StackView", "Events")" class="btn btn-blue">View Stack</a>
+    </div>
+
+</div>

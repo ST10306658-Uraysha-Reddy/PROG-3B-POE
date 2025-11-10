@@ -1,0 +1,186 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SORTED!</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/municipalService.styles.css" asp-append-version="true" />
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+    <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+    <!-- Quill CSS -->
+    <link href="https://cdn.quilljs.com/1.3.6/quill.snow.css" rel="stylesheet">
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        main {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        footer {
+            background-color: #0a2463; /* Deep Navy */
+            color: #cef4ff; /* Pale Cyan */
+            text-align: center;
+            padding: 10px;
+        }
+
+        /* Coolors buttons */
+        .btn-navy {
+            background-color: #0a2463;
+            color: white;
+            font-weight: bold;
+        }
+
+            .btn-navy:hover {
+                background-color: #aadbff;
+                color: #0a2463;
+            }
+
+        .btn-pink {
+            background-color: #f47cae;
+            color: white;
+            font-weight: bold;
+        }
+
+            .btn-pink:hover {
+                background-color: #efc7f9;
+                color: #0a2463;
+            }
+
+        .btn-blue {
+            background-color: #aadbff;
+            color: #0a2463;
+            font-weight: bold;
+        }
+
+            .btn-blue:hover {
+                background-color: #0a2463;
+                color: #cef4ff;
+            }
+
+        label {
+            color: #0a2463;
+        }
+    </style>
+   <style>
+        /* Navbar background: deep navy */
+        .custom-navbar {
+            background-color: #0a2463;
+        }
+
+            /* Brand text and logos in navbar */
+            .custom-navbar .navbar-brand {
+                color: #cef4ff; /* light cyan for contrast */
+                font-weight: bold;
+            }
+
+            /* Nav links: use soft colors, maybe pink or light blue */
+            .custom-navbar .nav-link {
+                color: #aadbff;
+                transition: color 0.3s ease;
+            }
+
+                /* On hover: slightly brighter or accent tone */
+                .custom-navbar .nav-link:hover {
+                    color: #f47cae; /* soft pink accent */
+                }
+
+                /* Active link: maybe underline or border */
+                .custom-navbar .nav-link.active {
+                    color: #cef4ff;
+                    border-bottom: 2px solid #f47cae;
+                }
+
+        
+        .btn-primary-custom {
+            background-color: #f47cae;
+            color: white;
+        }
+
+            .btn-primary-custom:hover {
+                background-color: #efc7f9;
+                color: #0a2463;
+            }
+
+        /* Example body / page background sections */
+        .page-section-light {
+            background-color: #cef4ff;
+            color: #0a2463;
+        }
+
+        .page-section-alt {
+            background-color: #aadbff;
+            color: #0a2463;
+        }
+   </style>
+</head>
+<body class=" d-flex flex-column min-vh-100">
+    <header>
+
+        <nav class="navbar navbar-expand-lg fixed-top" style="background-color: #0a2463">
+            <div class="container-fluid d-flex align-items-center text-light">
+
+                <!-- Brand with logo and name -->
+                <a class="navbar-brand d-flex align-items-center text-light" asp-area="" asp-controller="Home" asp-action="Index">
+                 <span class="fw-bold">SORTED!</span>
+                </a>
+
+                <!-- Canva Embed (scaled down) -->
+                <div style="width: 110px; height: 110px; overflow: hidden; border-radius: 8px;" class="me-3">
+                    <iframe loading="lazy"
+                            src="https://www.canva.com/design/DAGyp44cLqg/sd9-PhBnX54QMrw_aB085w/view?embed"
+                            style="width: 100%; height: 100%; border: none;"></iframe>
+                </div>
+
+
+                <!-- Navbar toggler for mobile -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Navigation links -->
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between d-flex flex-wrap gap-3">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item"><a class="nav-link text-light" asp-controller="Home" asp-action="Index">Main Menu</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" asp-controller="ReportFormModels" asp-action="Create">Report Issue</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" asp-controller="Events" asp-action="EventsPage">Announcements</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" asp-controller="Home" asp-action="ReportStatus">Report Status</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" asp-controller="ReportFormModels" asp-action="Table">View Reports</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container" style=" width:100%">
+        <main role="main" class="flex-fill d-flex justify-content-center align-items-center py-5 " style="margin-top: 35px">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class=" mt-auto text-center p-3" style="border-top:10px solid; text-muted; width:100%">
+        <div class="container" style="max-width: 12000px; margin: 0px; text-align:center">
+            &copy; 2025 - SORTED! 
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.quilljs.com/1.3.6/quill.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

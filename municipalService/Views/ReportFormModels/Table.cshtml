@@ -1,0 +1,98 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    
+}
+<!-- code adpted from :
+    https://learn.microsoft.com/en-us/aspnet/core/data/ef-mvc/sort-filter-page?view=aspnetcore-9.0
+-->
+@model IEnumerable<municipalService.Models.ReportFormModel>
+<div class="container-fluid" style="padding-top: 100px;">
+    <h2 class="mb-4 text-center" style="color:#0a2463;">Submitted Reports</h2>
+    <!-- your table here -->
+
+@if (Model != null && Model.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-bordered shadow">
+            <thead style="background-color:#0a2463; color:#cef4ff;">
+                <tr>
+                    <th>Reference</th>
+                    <th>Reporter</th>
+                    <th>Contact</th>
+                    <th>Category</th>
+                    <th>Location</th>
+                    <th>Description</th>
+                    <th>File</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var report in Model)
+                {
+                    <tr style="background-color:#cef4ff;">
+                        <td class="fw-bold text-primary">@report.Reference</td>
+                        <td class="text-dark">@report.RName</td>
+                        <td class="text-dark">@report.Rnum</td>
+                        <td class="text-pink">@report.Category</td>
+                        <td class="text-dark">@report.Location</td>
+                        <td>@Html.Raw(report.Description)</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(report.FilePath))
+                            {
+                                <a href="@report.FilePath" target="_blank" class="text-primary">View File</a>
+                            }
+                            else
+                            {
+                                <span class="text-muted">No File</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+else
+{
+    <div class="alert alert-warning text-center" style="color:#0a2463;">
+        No reports submitted yet.
+    </div>
+}
+</div>
+<style>
+    table {
+        border-radius: 12px;
+        overflow: hidden;
+    }
+
+    tbody tr:nth-child(even) {
+        background-color: #aadbff; /* alternating soft blue rows */
+    }
+
+    tbody tr:hover {
+        background-color: #efc7f9; /* hover light pink */
+        transition: background 0.3s ease;
+    }
+
+    th {
+        text-align: center;
+        font-size: 1.1rem;
+        letter-spacing: 0.5px;
+    }
+
+    .text-pink {
+        color: #f47cae;
+        font-weight: bold;
+    }
+
+    .text-primary {
+        color: #0a2463;
+        font-weight: bold;
+    }
+
+    .text-dark {
+        color: #333;
+    }
+</style>
