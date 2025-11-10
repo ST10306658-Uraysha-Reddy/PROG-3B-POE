@@ -1,61 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\",
+  "WorkspaceRootPath": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\municipalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:municipalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\storage\\eventstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\eventstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\storage\\eventqueuestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\eventqueuestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\storage\\reportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\reportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\storage\\searchtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\searchtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\views\\reportformmodels\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\reportformmodels\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\views\\reportformmodels\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\reportformmodels\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\storage\\eventmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\eventmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\views\\events\\stackview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\stackview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\views\\events\\queueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\queueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\service\\statuspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\service\\statuspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\municipalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:municipalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\storage\\eventstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\eventstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\storage\\reportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\reportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\storage\\searchtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\searchtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\reportformmodels\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\reportformmodels\\table.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\reportformmodels\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\reportformmodels\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\storage\\eventmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\eventmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\events\\stackview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\stackview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\events\\queueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\queueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog7312-part-1-uraysha\\municipalservice\\views\\reportformmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\reportformmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\reportformmodels\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -66,32 +70,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "municipalService",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\municipalService.csproj",
-              "RelativeDocumentMoniker": "municipalService.csproj",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\municipalService.csproj",
-              "RelativeToolTip": "municipalService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T06:35:35.503Z",
+              "DocumentIndex": 1,
+              "Title": "StatusPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Service\\StatusPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Service\\StatusPage.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Service\\StatusPage.cshtml",
+              "RelativeToolTip": "Views\\Service\\StatusPage.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:23:06.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "EventsPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\EventsPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\EventsPage.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\EventsPage.cshtml",
+              "RelativeToolTip": "Views\\Events\\EventsPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T20:17:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:23:11.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "municipalService.csproj",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\municipalService.csproj",
+              "RelativeDocumentMoniker": "municipalService.csproj",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\municipalService.csproj",
+              "RelativeToolTip": "municipalService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T06:35:35.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Table.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\ReportFormModels\\Table.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Table.cshtml",
               "RelativeDocumentMoniker": "Views\\ReportFormModels\\Table.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\ReportFormModels\\Table.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Table.cshtml",
               "RelativeToolTip": "Views\\ReportFormModels\\Table.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,11 +145,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Confirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\ReportFormModels\\Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Confirmation.cshtml",
               "RelativeDocumentMoniker": "Views\\ReportFormModels\\Confirmation.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\ReportFormModels\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Confirmation.cshtml",
               "RelativeToolTip": "Views\\ReportFormModels\\Confirmation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -111,11 +157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ReportStorage.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\ReportStorage.cs",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\ReportStorage.cs",
               "RelativeDocumentMoniker": "Storage\\ReportStorage.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\ReportStorage.cs",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\ReportStorage.cs",
               "RelativeToolTip": "Storage\\ReportStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,36 +169,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventQueueStorage.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\EventQueueStorage.cs",
-              "RelativeDocumentMoniker": "Storage\\EventQueueStorage.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\EventQueueStorage.cs",
-              "RelativeToolTip": "Storage\\EventQueueStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T21:43:51.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EventStorage.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\EventStorage.cs",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventStorage.cs",
               "RelativeDocumentMoniker": "Storage\\EventStorage.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\EventStorage.cs",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventStorage.cs",
               "RelativeToolTip": "Storage\\EventStorage.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAawDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T20:53:52.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T20:53:52.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SearchTracker.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\SearchTracker.cs",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\SearchTracker.cs",
               "RelativeDocumentMoniker": "Storage\\SearchTracker.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\SearchTracker.cs",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\SearchTracker.cs",
               "RelativeToolTip": "Storage\\SearchTracker.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Controllers\\EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Controllers\\EventsController.cs",
               "RelativeToolTip": "Controllers\\EventsController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\ReportFormModels\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\ReportFormModels\\Create.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\ReportFormModels\\Create.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Create.cshtml",
               "RelativeToolTip": "Views\\ReportFormModels\\Create.cshtml",
               "ViewState": "AgIAAKIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -184,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "StackView.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\Events\\StackView.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\StackView.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\StackView.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\Events\\StackView.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\StackView.cshtml",
               "RelativeToolTip": "Views\\Events\\StackView.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -196,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "QueueView.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\Events\\QueueView.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\QueueView.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\QueueView.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\Events\\QueueView.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\QueueView.cshtml",
               "RelativeToolTip": "Views\\Events\\QueueView.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -208,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EventMD.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\EventMD.cs",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventMD.cs",
               "RelativeDocumentMoniker": "Storage\\EventMD.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Storage\\EventMD.cs",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventMD.cs",
               "RelativeToolTip": "Storage\\EventMD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,27 +253,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EventModel.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Models\\EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Models\\EventModel.cs",
               "RelativeDocumentMoniker": "Models\\EventModel.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Models\\EventModel.cs",
               "RelativeToolTip": "Models\\EventModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T20:57:56.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EventsPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\Events\\EventsPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\EventsPage.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\prog7312-part-1-Uraysha\\municipalService\\Views\\Events\\EventsPage.cshtml",
-              "RelativeToolTip": "Views\\Events\\EventsPage.cshtml",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T20:17:15.523Z"
             }
           ]
         }

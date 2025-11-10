@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\service\\statuspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\service\\statuspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\municipalservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\storage\\eventqueuestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:storage\\eventqueuestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\storage\\reportstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\queueview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:views\\events\\eventspage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|c:\\users\\urays\\onedrive\\documents\\3rd year\\prog 3b\\prog-3b-poe\\municipalservice\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5E7AC2D-60BB-45C5-A3CB-A7503376B1CD}|municipalService.csproj|solutionrelative:models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,28 +70,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ServiceRequest.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Models\\ServiceRequest.cs",
-              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Models\\ServiceRequest.cs",
-              "RelativeToolTip": "Models\\ServiceRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T07:13:19.251Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StatusPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Service\\StatusPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Service\\StatusPage.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Service\\StatusPage.cshtml",
+              "RelativeToolTip": "Views\\Service\\StatusPage.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:23:06.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\EventsPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Events\\EventsPage.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\EventsPage.cshtml",
+              "RelativeToolTip": "Views\\Events\\EventsPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T20:17:15.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:23:11.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "municipalService.csproj",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\municipalService.csproj",
               "RelativeDocumentMoniker": "municipalService.csproj",
@@ -99,12 +129,11 @@
               "RelativeToolTip": "municipalService.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T06:35:35.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T06:35:35.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Table.cshtml",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Table.cshtml",
               "RelativeDocumentMoniker": "Views\\ReportFormModels\\Table.cshtml",
@@ -116,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Confirmation.cshtml",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\ReportFormModels\\Confirmation.cshtml",
               "RelativeDocumentMoniker": "Views\\ReportFormModels\\Confirmation.cshtml",
@@ -128,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReportStorage.cs",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\ReportStorage.cs",
               "RelativeDocumentMoniker": "Storage\\ReportStorage.cs",
@@ -141,18 +170,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EventQueueStorage.cs",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventQueueStorage.cs",
-              "RelativeDocumentMoniker": "Storage\\EventQueueStorage.cs",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventQueueStorage.cs",
-              "RelativeToolTip": "Storage\\EventQueueStorage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T21:43:51.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "EventStorage.cs",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventStorage.cs",
               "RelativeDocumentMoniker": "Storage\\EventStorage.cs",
@@ -164,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SearchTracker.cs",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\SearchTracker.cs",
               "RelativeDocumentMoniker": "Storage\\SearchTracker.cs",
@@ -176,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
@@ -200,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "StackView.cshtml",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\StackView.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\StackView.cshtml",
@@ -212,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "QueueView.cshtml",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\QueueView.cshtml",
               "RelativeDocumentMoniker": "Views\\Events\\QueueView.cshtml",
@@ -224,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "EventMD.cs",
               "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Storage\\EventMD.cs",
               "RelativeDocumentMoniker": "Storage\\EventMD.cs",
@@ -245,22 +262,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T20:57:56.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EventsPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\EventsPage.cshtml",
-              "RelativeDocumentMoniker": "Views\\Events\\EventsPage.cshtml",
-              "ToolTip": "C:\\Users\\urays\\OneDrive\\Documents\\3rd year\\Prog 3b\\PROG-3B-POE\\municipalService\\Views\\Events\\EventsPage.cshtml",
-              "RelativeToolTip": "Views\\Events\\EventsPage.cshtml",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T20:17:15.523Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
